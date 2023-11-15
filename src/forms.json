@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Name 1",
+        "field_name_1": "asdas@mail.ru",
+        "field_name_2": "+78005553535"
+    },
+    {
+        "name": "Name 2",
+        "field_name_1": "01.01.2023",
+        "field_name_2": "2023.01.02"
+    },
+    {
+        "name": "Name 3",
+        "field_name_1": "maaaail@mail.ru",
+        "field_name_2": "+78123453535"
+    },
+    {
+        "name": "Name 4",
+        "field_name_1": "05.05.2023",
+        "field_name_2": "2023.05.05"
+    }
+]

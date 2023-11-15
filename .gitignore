@@ -1,0 +1,10 @@
+/.enw/
+/.idea/
+*__pycache__*
+venv/
+.env
+__pycache__/
+mongodb-data/
+*.pyc
+*.pyo
+.env
